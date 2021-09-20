@@ -1,6 +1,6 @@
 # local_notification_example
 
-A new Flutter project.
+Working example for local_flutter_notification package in Flutter. Includes setting notification at custom time, daily, weekly.
 
 ## Getting Started
 
